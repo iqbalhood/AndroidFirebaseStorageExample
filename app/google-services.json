@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254746418564",
+    "firebase_url": "https://simpelchat-c745d.firebaseio.com",
+    "project_id": "simpelchat-c745d",
+    "storage_bucket": "simpelchat-c745d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254746418564:android:967ce50241709260",
+        "android_client_info": {
+          "package_name": "id.firebase.upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254746418564-1nhnkt5h1ol39pe4h0jijcu9kqgolaqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.firebase.upload",
+            "certificate_hash": "4824f1b3cb465c79aae73b2612d59f95502c25a3"
+          }
+        },
+        {
+          "client_id": "254746418564-k8k1j2dk15ho7op9fm3dm98itbdntido.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDnulKsljPEb10BlIqdD1w1M9SjpSj_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254746418564-k8k1j2dk15ho7op9fm3dm98itbdntido.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
