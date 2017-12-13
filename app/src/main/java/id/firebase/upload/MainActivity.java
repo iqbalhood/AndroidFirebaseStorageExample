@@ -110,7 +110,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             progressDialog.show();
 
             //getting the storage reference
-            StorageReference sRef = storageReference.child(Constants.STORAGE_PATH_UPLOADS + System.currentTimeMillis() + "." + getFileExtension(filePath));
+            StorageReference sRef = storageReference.child(Constants.STORAGE_PATH_UPLOADS + System.currentTimeMillis() + "." 
+                                                           + getFileExtension(filePath));
 
             //adding the file to reference
             sRef.putFile(filePath)
